@@ -10,9 +10,14 @@
   },
   "dependencies": {
     "expo": "~50.0.14",
+    "expo-app-loading": "^2.1.1",
+    "expo-font": "~11.10.3",
+    "expo-linear-gradient": "~12.7.2",
     "expo-status-bar": "~1.11.1",
+    "prettier": "^3.2.5",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
